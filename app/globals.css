@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{color-scheme:light}*{box-sizing:border-box}body{margin:0;background:#f1eee6;color:#262722;font-family:Arial,"Apple SD Gothic Neo",sans-serif}.paper{background-image:radial-gradient(#d8d3c8 0.7px,transparent .7px);background-size:18px 18px}.focus-ring:focus-visible{outline:3px solid #9baa95;outline-offset:3px}textarea{resize:none}
